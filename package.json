@@ -1,0 +1,39 @@
+{
+  "name": "world-explorer",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host",
+    "test": "vitest run",
+    "geo": "./scripts/build-geo.sh",
+    "images": "node scripts/fetch-images.mjs && node scripts/normalize-images.mjs"
+  },
+  "dependencies": {
+    "d3-geo": "^3.1.2",
+    "flag-icons": "^7.6.0",
+    "motion": "^14.14.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.30.6",
+    "topojson-client": "^3.1.0",
+    "topojson-simplify": "^3.0.3"
+  },
+  "devDependencies": {
+    "@types/d3-geo": "^3.1.1",
+    "@types/geojson": "^7946.0.16",
+    "@types/node": "^26.6.6",
+    "@types/react": "^18.3.31",
+    "@types/react-dom": "^18.3.7",
+    "@types/topojson-client": "^3.1.5",
+    "@types/topojson-simplify": "^3.0.3",
+    "@vitejs/plugin-react": "^6.3.0",
+    "mapshaper": "^0.7.101",
+    "sharp": "^0.35.5",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.8",
+    "vitest": "^5.1.0"
+  }
+}

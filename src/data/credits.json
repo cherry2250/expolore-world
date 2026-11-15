@@ -1,0 +1,524 @@
+{
+  "argentina/food": {
+    "file": "Asado_2005.jpg",
+    "author": "Unknown",
+    "license": "Attribution",
+    "source": "https://commons.wikimedia.org/wiki/File:Asado_2005.jpg"
+  },
+  "argentina/highlight": {
+    "file": "Tango Porteño.jpg",
+    "author": "Manticora87",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tango_Porte%C3%B1o.jpg"
+  },
+  "argentina/landmark": {
+    "file": "Panorama_Obelisco_de_Buenos_Aires_2019.jpg",
+    "author": "Luis Santos",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Panorama_Obelisco_de_Buenos_Aires_2019.jpg"
+  },
+  "australia/food": {
+    "file": "Meat_pie.jpg",
+    "author": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Canon 17-40mm f/4 L",
+    "license": "GFDL 1.2",
+    "source": "https://commons.wikimedia.org/wiki/File:Meat_pie.jpg"
+  },
+  "australia/highlight": {
+    "file": "Kangaroo with Joey in pouch-01and (3154242515).jpg",
+    "author": "Sheba_Also 43,000 photos",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kangaroo_with_Joey_in_pouch-01and_(3154242515).jpg"
+  },
+  "australia/landmark": {
+    "file": "Sydney_Opera_House_2026.jpg",
+    "author": "BAVhah",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_2026.jpg"
+  },
+  "brazil/food": {
+    "file": "Churrasco00003.jpg",
+    "author": "Leonardo Sakaki",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Churrasco00003.jpg"
+  },
+  "brazil/highlight": {
+    "file": "Desfile_Portela_2014_(906185).jpg",
+    "author": "Fernando Frazão/Agência Brasil",
+    "license": "CC BY 3.0 br",
+    "source": "https://commons.wikimedia.org/wiki/File:Desfile_Portela_2014_(906185).jpg"
+  },
+  "brazil/landmark": {
+    "file": "Christ_the_Redeemer_-_Cristo_Redentor.jpg",
+    "author": "Arne Müseler",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Christ_the_Redeemer_-_Cristo_Redentor.jpg"
+  },
+  "canada/food": {
+    "file": "Maple_syrup.jpg",
+    "author": "User:Miguel Andrade",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Maple_syrup.jpg"
+  },
+  "canada/highlight": {
+    "file": "American Beaver (Castor Canadensis).jpg",
+    "author": "Cliff from I now live in Arlington, VA (Outside Washington DC), USA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:American_Beaver_(Castor_Canadensis).jpg"
+  },
+  "canada/landmark": {
+    "file": "Toronto - ON - CN Tower bei Nacht2.jpg",
+    "author": "Wladyslaw, Correction of perspective distortion: Niabot",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toronto_-_ON_-_CN_Tower_bei_Nacht2.jpg"
+  },
+  "chile/food": {
+    "file": "Tapa_de_empanadillitas.JPG",
+    "author": "Tamorlan",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tapa_de_empanadillitas.JPG"
+  },
+  "chile/highlight": {
+    "file": "Andean Condor soaring.jpg",
+    "author": "Ezequiel Racker",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Andean_Condor_soaring.jpg"
+  },
+  "chile/landmark": {
+    "file": "AhuTongariki.JPG",
+    "author": "Ian Sewell",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:AhuTongariki.JPG"
+  },
+  "china/food": {
+    "file": "台灣南投草屯水餃Nantou,_Taiwan_Caotun_dumplings.jpg",
+    "author": "Yeepunchmen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E7%81%A3%E5%8D%97%E6%8A%95%E8%8D%89%E5%B1%AF%E6%B0%B4%E9%A4%83Nantou,_Taiwan_Caotun_dumplings.jpg"
+  },
+  "china/highlight": {
+    "file": "Giant Panda eating Bamboo.JPG",
+    "author": "Manyman",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Giant_Panda_eating_Bamboo.JPG"
+  },
+  "china/landmark": {
+    "file": "The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+    "author": "Severin.stalder",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Great_Wall_of_China_at_Jinshanling-edit.jpg"
+  },
+  "colombia/food": {
+    "file": "Arepitas_Food_Macro.jpg",
+    "author": "Steven Depolo from Grand Rapids, MI, USA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arepitas_Food_Macro.jpg"
+  },
+  "colombia/highlight": {
+    "file": "Jess Baila5.jpg",
+    "author": "Arivasprod",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jess_Baila5.jpg"
+  },
+  "colombia/landmark": {
+    "file": "Cartagena de Indias 2.jpg",
+    "author": "User: (WT-shared) CONOCER at wts wikivoyage",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Cartagena_de_Indias_2.jpg"
+  },
+  "cuba/food": {
+    "file": "Arroz-con-Pollo.jpg",
+    "author": "Kobako",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Arroz-con-Pollo.jpg"
+  },
+  "cuba/highlight": {
+    "file": "Bee hummingbird (Mellisuga helenae) adult male in flight.jpg",
+    "author": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bee_hummingbird_(Mellisuga_helenae)_adult_male_in_flight.jpg"
+  },
+  "cuba/landmark": {
+    "file": "El Capitolio Havana Cuba.jpg",
+    "author": "Nigel Pacquette",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:El_Capitolio_Havana_Cuba.jpg"
+  },
+  "egypt/food": {
+    "file": "Egyptian_food_Koshary.jpg",
+    "author": "Dina Said",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Egyptian_food_Koshary.jpg"
+  },
+  "egypt/highlight": {
+    "file": "Camel and the pyramids.jpg",
+    "author": "kallerna",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Camel_and_the_pyramids.jpg"
+  },
+  "egypt/landmark": {
+    "file": "Pyramids_of_the_Giza_Necropolis.jpg",
+    "author": "KennyOMG",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pyramids_of_the_Giza_Necropolis.jpg"
+  },
+  "fiji/food": {
+    "file": "Kokodafood.jpg",
+    "author": "yuko_ppp2501",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kokodafood.jpg"
+  },
+  "fiji/highlight": {
+    "file": "Fiji Crested Iguana.jpg",
+    "author": "Michael Howard from Australia",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fiji_Crested_Iguana.jpg"
+  },
+  "fiji/landmark": {
+    "file": "BureNavala2.jpg",
+    "author": "Anton Leddin",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BureNavala2.jpg"
+  },
+  "france/food": {
+    "file": "Croissant-Petr_Kratochvil.jpg",
+    "author": "Petr Kratochvil",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Croissant-Petr_Kratochvil.jpg"
+  },
+  "france/highlight": {
+    "file": "Rooster04 adjusted.jpg",
+    "author": "User:Fir0002",
+    "license": "GFDL 1.2",
+    "source": "https://commons.wikimedia.org/wiki/File:Rooster04_adjusted.jpg"
+  },
+  "france/landmark": {
+    "file": "Tour_Eiffel_Wikimedia_Commons_(cropped).jpg",
+    "author": "Benh LIEU SONG",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Tour_Eiffel_Wikimedia_Commons_(cropped).jpg"
+  },
+  "germany/food": {
+    "file": "BrezelnSalz02_(cropped).JPG",
+    "author": "Sundar1",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BrezelnSalz02_(cropped).JPG"
+  },
+  "germany/highlight": {
+    "file": "Volksfestumzug_in_Vilshofen_a.d._Donau_2012_(3).JPG",
+    "author": "High Contrast",
+    "license": "CC BY 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Volksfestumzug_in_Vilshofen_a.d._Donau_2012_(3).JPG"
+  },
+  "germany/landmark": {
+    "file": "Schloss_Neuschwanstein_2013.jpg",
+    "author": "Thomas Wolf, www.foto-tw.de",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Schloss_Neuschwanstein_2013.jpg"
+  },
+  "greece/food": {
+    "file": "Ελληνικό_Σουβλάκι_-_panoramio.jpg",
+    "author": "EntaXoyas",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CF%8C_%CE%A3%CE%BF%CF%85%CE%B2%CE%BB%CE%AC%CE%BA%CE%B9_-_panoramio.jpg"
+  },
+  "greece/highlight": {
+    "file": "Evzones, Presidential Guard (27113037967).jpg",
+    "author": "Luc.T from Buggenhout, België",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Evzones,_Presidential_Guard_(27113037967).jpg"
+  },
+  "greece/landmark": {
+    "file": "The_Parthenon_in_Athens.jpg",
+    "author": "Steve Swayne",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Parthenon_in_Athens.jpg"
+  },
+  "india/food": {
+    "file": "Annapurna_Naan.jpg",
+    "author": "snowpea&amp;bokchoi",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Annapurna_Naan.jpg"
+  },
+  "india/highlight": {
+    "file": "Sari_on_mannequin_for_demo.jpg",
+    "author": "Suyash.dwivedi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sari_on_mannequin_for_demo.jpg"
+  },
+  "india/landmark": {
+    "file": "Taj_Mahal_(Edited).jpeg",
+    "author": "Yann; edited by Jim Carter",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_(Edited).jpeg"
+  },
+  "italy/food": {
+    "file": "Pizza-3007395.jpg",
+    "author": "igorovsyannykov",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pizza-3007395.jpg"
+  },
+  "italy/highlight": {
+    "file": "Venice_Carnival_-_Masked_Lovers_(2010).jpg",
+    "author": "Frank Kovalchek from Anchorage, Alaska, USA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Venice_Carnival_-_Masked_Lovers_(2010).jpg"
+  },
+  "italy/landmark": {
+    "file": "Colosseo_2020.jpg",
+    "author": "FeaturedPics",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Colosseo_2020.jpg"
+  },
+  "japan/food": {
+    "file": "Sushi_platter.jpg",
+    "author": "chidorian from Japan",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sushi_platter.jpg"
+  },
+  "japan/highlight": {
+    "file": "Two_young_maiko_in_Seirai-in_Temple_02.jpg",
+    "author": "Takaaki Kawai",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Two_young_maiko_in_Seirai-in_Temple_02.jpg"
+  },
+  "japan/landmark": {
+    "file": "Himeji_castle_in_may_2015.jpg",
+    "author": "Nikos Kitsakis",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Himeji_castle_in_may_2015.jpg"
+  },
+  "kenya/food": {
+    "file": "Ugali_&_Sukuma_Wiki.jpg",
+    "author": "Paresh Jai from Nairobi, Kenya",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ugali_%26_Sukuma_Wiki.jpg"
+  },
+  "kenya/highlight": {
+    "file": "Maasai_tribe.jpg",
+    "author": "Unknown",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Maasai_tribe.jpg"
+  },
+  "kenya/landmark": {
+    "file": "Lamu_Old_Town.jpg",
+    "author": "Almaddy2022",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lamu_Old_Town.jpg"
+  },
+  "korea/food": {
+    "file": "Dolsot-bibimbap.jpg",
+    "author": "Sous Chef",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dolsot-bibimbap.jpg"
+  },
+  "korea/highlight": {
+    "file": "Hanbok_Day_2016_29_(30467033136).jpg",
+    "author": "Republic of Korea from Seoul, Republic of Korea",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hanbok_Day_2016_29_(30467033136).jpg"
+  },
+  "korea/landmark": {
+    "file": "Gyeongbokgung(palace) Geunjeongjeon(hall).jpg",
+    "author": "Brady Bellini",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gyeongbokgung(palace)_Geunjeongjeon(hall).jpg"
+  },
+  "mexico/food": {
+    "file": "001_Tacos_de_carnitas,_carne_asada_y_al_pastor.jpg",
+    "author": "Larry Miller",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:001_Tacos_de_carnitas,_carne_asada_y_al_pastor.jpg"
+  },
+  "mexico/highlight": {
+    "file": "Wikipedia 10 Guadalajara - Mariachi.jpg",
+    "author": "Elidealista",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wikipedia_10_Guadalajara_-_Mariachi.jpg"
+  },
+  "mexico/landmark": {
+    "file": "Chichen_Itza_3.jpg",
+    "author": "Daniel Schwen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg"
+  },
+  "morocco/food": {
+    "file": "Tajine-marocain-un-plat-varie-et-sain_(cropped).jpg",
+    "author": "BBouchra00",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tajine-marocain-un-plat-varie-et-sain_(cropped).jpg"
+  },
+  "morocco/highlight": {
+    "file": "Macaca sylvanus, Ouzoud Falls, Morocco, 20250126 1430 7509.jpg",
+    "author": "Jakub Hałun",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Macaca_sylvanus,_Ouzoud_Falls,_Morocco,_20250126_1430_7509.jpg"
+  },
+  "morocco/landmark": {
+    "file": "Whispers of Gold - Hassan II Mosque at Dusk.jpg",
+    "author": "OussamaHamama",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Whispers_of_Gold_-_Hassan_II_Mosque_at_Dusk.jpg"
+  },
+  "new-zealand/food": {
+    "file": "EDC hangi 2010.jpg",
+    "author": "Sarah Stewart",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:EDC_hangi_2010.jpg"
+  },
+  "new-zealand/highlight": {
+    "file": "Apteryx mantelli -Rotorua, North Island, New Zealand-8a.jpg",
+    "author": "The.Rohit",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Apteryx_mantelli_-Rotorua,_North_Island,_New_Zealand-8a.jpg"
+  },
+  "new-zealand/landmark": {
+    "file": "Sky_Tower,_Auckland_-_0206_(cropped).jpg",
+    "author": "Jorge Royan",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sky_Tower,_Auckland_-_0206_(cropped).jpg"
+  },
+  "nigeria/food": {
+    "file": "Jollof_Rice_with_Stew.jpg",
+    "author": "Noahalorwu",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jollof_Rice_with_Stew.jpg"
+  },
+  "nigeria/highlight": {
+    "file": "Talking drum variant.jpg",
+    "author": "Bamjos",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Talking_drum_variant.jpg"
+  },
+  "nigeria/landmark": {
+    "file": "Abuja_National_Mosque.jpg",
+    "author": "Mark Fischer",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Abuja_National_Mosque.jpg"
+  },
+  "peru/food": {
+    "file": "Cebiche_de_corvina.JPG",
+    "author": "Picanteria karol",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cebiche_de_corvina.JPG"
+  },
+  "peru/highlight": {
+    "file": "Llama on Machu Picchu.jpg",
+    "author": "Alexandre Buisse (Nattfodd)",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Llama_on_Machu_Picchu.jpg"
+  },
+  "peru/landmark": {
+    "file": "Machu_Picchu,_2023_(012).jpg",
+    "author": "Draceane",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_2023_(012).jpg"
+  },
+  "south-africa/food": {
+    "file": "Boerewors braai.jpg",
+    "author": "Ossewa",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Boerewors_braai.jpg"
+  },
+  "south-africa/highlight": {
+    "file": "Simon’s Town (ZA), Boulders Beach, Penguin Colony -- 2024 -- 3420.jpg",
+    "author": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Simon%E2%80%99s_Town_(ZA),_Boulders_Beach,_Penguin_Colony_--_2024_--_3420.jpg"
+  },
+  "south-africa/landmark": {
+    "file": "Boe-Kaap.jpg",
+    "author": "SkyPixels",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Boe-Kaap.jpg"
+  },
+  "spain/food": {
+    "file": "01_Paella_Valenciana_original.jpg",
+    "author": "Jan Harenburg",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:01_Paella_Valenciana_original.jpg"
+  },
+  "spain/highlight": {
+    "file": "Flamenca_001.jpg",
+    "author": "Schnobby",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Flamenca_001.jpg"
+  },
+  "spain/landmark": {
+    "file": "SF_maig_2_cropped.jpg",
+    "author": "Canaan",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SF_maig_2_cropped.jpg"
+  },
+  "thailand/food": {
+    "file": "Phat_Thai_kung_Chang_Khien_street_stall.jpg",
+    "author": "Takeaway",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Phat_Thai_kung_Chang_Khien_street_stall.jpg"
+  },
+  "thailand/highlight": {
+    "file": "Asian Elephant (Elephas maximus) (7852943934).jpg",
+    "author": "Bernard DUPONT from FRANCE",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Asian_Elephant_(Elephas_maximus)_(7852943934).jpg"
+  },
+  "thailand/landmark": {
+    "file": "เจดีย์ประธานทรงปรางค์วัดอรุณ2.jpg",
+    "author": "Mastertongapollo",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E0%B9%80%E0%B8%88%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%932.jpg"
+  },
+  "uk/food": {
+    "file": "Fish_and_chips_blackpool.jpg",
+    "author": "Matthias Meckel",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fish_and_chips_blackpool.jpg"
+  },
+  "uk/highlight": {
+    "file": "Guard_of_Buckingham_Palace.JPG",
+    "author": "MaryG90",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Guard_of_Buckingham_Palace.JPG"
+  },
+  "uk/landmark": {
+    "file": "Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster,_London.jpg",
+    "author": "Christian David",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster,_London.jpg"
+  },
+  "usa/food": {
+    "file": "RedDot_Burger.jpg",
+    "author": "Hongreddotbrewhouse",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:RedDot_Burger.jpg"
+  },
+  "usa/highlight": {
+    "file": "Bald eagle commons.wikimedia.org.jpg",
+    "author": "JeaLeone",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bald_eagle_commons.wikimedia.org.jpg"
+  },
+  "usa/landmark": {
+    "file": "Front_view_of_Statue_of_Liberty_(cropped).jpg",
+    "author": "AskALotl",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Front_view_of_Statue_of_Liberty_(cropped).jpg"
+  },
+  "vietnam/food": {
+    "file": "Bowl_of_Meatball_pho.jpg",
+    "author": "SerraKnightz",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bowl_of_Meatball_pho.jpg"
+  },
+  "vietnam/highlight": {
+    "file": "Áo_dài_hoa_phượng_-_Phát_Trương_-_51231007393_(cropped).jpg",
+    "author": "Phát Trương",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C3%81o_d%C3%A0i_hoa_ph%C6%B0%E1%BB%A3ng_-_Ph%C3%A1t_Tr%C6%B0%C6%A1ng_-_51231007393_(cropped).jpg"
+  },
+  "vietnam/landmark": {
+    "file": "2024_Hội_An_-_Japanese_Covered_Bridge_(Chùa_Cầu)_after_renovation_-_img_11.jpg",
+    "author": "Chainwit.",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2024_H%E1%BB%99i_An_-_Japanese_Covered_Bridge_(Ch%C3%B9a_C%E1%BA%A7u)_after_renovation_-_img_11.jpg"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "korea": {
+    "food": "File:Dolsot-bibimbap.jpg",
+    "landmark": "File:Gyeongbokgung(palace) Geunjeongjeon(hall).jpg",
+    "highlight": "File:Hanbok_Day_2016_29_(30467033136).jpg"
+  },
+  "japan": {
+    "food": "File:Sushi_platter.jpg",
+    "landmark": "File:Himeji_castle_in_may_2015.jpg",
+    "highlight": "File:Two_young_maiko_in_Seirai-in_Temple_02.jpg"
+  },
+  "china": {
+    "food": "File:台灣南投草屯水餃Nantou,_Taiwan_Caotun_dumplings.jpg",
+    "landmark": "File:The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+    "highlight": "File:Giant Panda eating Bamboo.JPG"
+  },
+  "india": {
+    "food": "File:Annapurna_Naan.jpg",
+    "landmark": "File:Taj_Mahal_(Edited).jpeg",
+    "highlight": "File:Sari_on_mannequin_for_demo.jpg"
+  },
+  "thailand": {
+    "food": "File:Phat_Thai_kung_Chang_Khien_street_stall.jpg",
+    "landmark": "File:เจดีย์ประธานทรงปรางค์วัดอรุณ2.jpg",
+    "highlight": "File:Asian Elephant (Elephas maximus) (7852943934).jpg"
+  },
+  "vietnam": {
+    "food": "File:Bowl_of_Meatball_pho.jpg",
+    "landmark": "File:2024_Hội_An_-_Japanese_Covered_Bridge_(Chùa_Cầu)_after_renovation_-_img_11.jpg",
+    "highlight": "File:Áo_dài_hoa_phượng_-_Phát_Trương_-_51231007393_(cropped).jpg"
+  },
+  "france": {
+    "food": "File:Croissant-Petr_Kratochvil.jpg",
+    "landmark": "File:Tour_Eiffel_Wikimedia_Commons_(cropped).jpg",
+    "highlight": "File:Rooster04 adjusted.jpg"
+  },
+  "uk": {
+    "food": "File:Fish_and_chips_blackpool.jpg",
+    "landmark": "File:Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster,_London.jpg",
+    "highlight": "File:Guard_of_Buckingham_Palace.JPG"
+  },
+  "italy": {
+    "food": "File:Pizza-3007395.jpg",
+    "landmark": "File:Colosseo_2020.jpg",
+    "highlight": "File:Venice_Carnival_-_Masked_Lovers_(2010).jpg"
+  },
+  "germany": {
+    "food": "File:BrezelnSalz02_(cropped).JPG",
+    "landmark": "File:Schloss_Neuschwanstein_2013.jpg",
+    "highlight": "File:Volksfestumzug_in_Vilshofen_a.d._Donau_2012_(3).JPG"
+  },
+  "spain": {
+    "food": "File:01_Paella_Valenciana_original.jpg",
+    "landmark": "File:SF_maig_2_cropped.jpg",
+    "highlight": "File:Flamenca_001.jpg"
+  },
+  "greece": {
+    "food": "File:Ελληνικό_Σουβλάκι_-_panoramio.jpg",
+    "landmark": "File:The_Parthenon_in_Athens.jpg",
+    "highlight": "File:Evzones, Presidential Guard (27113037967).jpg"
+  },
+  "egypt": {
+    "food": "File:Egyptian_food_Koshary.jpg",
+    "landmark": "File:Pyramids_of_the_Giza_Necropolis.jpg",
+    "highlight": "File:Camel and the pyramids.jpg"
+  },
+  "kenya": {
+    "food": "File:Ugali_&_Sukuma_Wiki.jpg",
+    "landmark": "File:Lamu_Old_Town.jpg",
+    "highlight": "File:Maasai_tribe.jpg"
+  },
+  "south-africa": {
+    "food": "File:Boerewors braai.jpg",
+    "landmark": "File:Boe-Kaap.jpg",
+    "highlight": "File:Simon’s Town (ZA), Boulders Beach, Penguin Colony -- 2024 -- 3420.jpg"
+  },
+  "morocco": {
+    "food": "File:Tajine-marocain-un-plat-varie-et-sain_(cropped).jpg",
+    "landmark": "File:Whispers of Gold - Hassan II Mosque at Dusk.jpg",
+    "highlight": "File:Macaca sylvanus, Ouzoud Falls, Morocco, 20250126 1430 7509.jpg"
+  },
+  "nigeria": {
+    "food": "File:Jollof_Rice_with_Stew.jpg",
+    "landmark": "File:Abuja_National_Mosque.jpg",
+    "highlight": "File:Talking drum variant.jpg"
+  },
+  "usa": {
+    "food": "File:RedDot_Burger.jpg",
+    "landmark": "File:Front_view_of_Statue_of_Liberty_(cropped).jpg",
+    "highlight": "File:Bald eagle commons.wikimedia.org.jpg"
+  },
+  "canada": {
+    "food": "File:Maple_syrup.jpg",
+    "landmark": "File:Toronto - ON - CN Tower bei Nacht2.jpg",
+    "highlight": "File:American Beaver (Castor Canadensis).jpg"
+  },
+  "mexico": {
+    "food": "File:001_Tacos_de_carnitas,_carne_asada_y_al_pastor.jpg",
+    "landmark": "File:Chichen_Itza_3.jpg",
+    "highlight": "File:Wikipedia 10 Guadalajara - Mariachi.jpg"
+  },
+  "cuba": {
+    "food": "File:Arroz-con-Pollo.jpg",
+    "landmark": "File:El Capitolio Havana Cuba.jpg",
+    "highlight": "File:Bee hummingbird (Mellisuga helenae) adult male in flight.jpg"
+  },
+  "brazil": {
+    "food": "File:Churrasco00003.jpg",
+    "landmark": "File:Christ_the_Redeemer_-_Cristo_Redentor.jpg",
+    "highlight": "File:Desfile_Portela_2014_(906185).jpg"
+  },
+  "argentina": {
+    "food": "File:Asado_2005.jpg",
+    "landmark": "File:Panorama_Obelisco_de_Buenos_Aires_2019.jpg",
+    "highlight": "File:Tango Porteño.jpg"
+  },
+  "peru": {
+    "food": "File:Cebiche_de_corvina.JPG",
+    "landmark": "File:Machu_Picchu,_2023_(012).jpg",
+    "highlight": "File:Llama on Machu Picchu.jpg"
+  },
+  "chile": {
+    "food": "File:Tapa_de_empanadillitas.JPG",
+    "landmark": "File:AhuTongariki.JPG",
+    "highlight": "File:Andean Condor soaring.jpg"
+  },
+  "colombia": {
+    "food": "File:Arepitas_Food_Macro.jpg",
+    "landmark": "File:Cartagena de Indias 2.jpg",
+    "highlight": "File:Jess Baila5.jpg"
+  },
+  "australia": {
+    "food": "File:Meat_pie.jpg",
+    "landmark": "File:Sydney_Opera_House_2026.jpg",
+    "highlight": "File:Kangaroo with Joey in pouch-01and (3154242515).jpg"
+  },
+  "new-zealand": {
+    "food": "File:EDC hangi 2010.jpg",
+    "landmark": "File:Sky_Tower,_Auckland_-_0206_(cropped).jpg",
+    "highlight": "File:Apteryx mantelli -Rotorua, North Island, New Zealand-8a.jpg"
+  },
+  "fiji": {
+    "food": "File:Kokodafood.jpg",
+    "landmark": "File:BureNavala2.jpg",
+    "highlight": "File:Fiji Crested Iguana.jpg"
+  }
+}
