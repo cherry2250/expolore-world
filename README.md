@@ -15,8 +15,11 @@ npm run build    # dist/ 에 정적 파일 생성
 
 ## 배포
 
-- **Netlify**: 저장소를 연결하면 `netlify.toml` 설정대로 `npm run build` → `dist` 배포.
-- **GitHub Pages**: `npm run build` 후 `dist/` 를 Pages로 배포. 해시 주소(`#/asia/japan`)와 상대 경로(`base: './'`)를 써서 하위 경로에서도 별도 설정 없이 동작합니다.
+- **GitHub Pages (사용 중)**: `main` 브랜치에 push하면 `.github/workflows/deploy.yml` 이 테스트 → 빌드 → 배포를 자동으로 합니다.
+  주소: https://cherry2250.github.io/expolore-world/
+  처음 한 번은 저장소 Settings → Pages → Source를 **GitHub Actions** 로 설정해야 합니다.
+  해시 주소(`#/asia/japan`)와 상대 경로(`base: './'`)를 써서 하위 경로에서도 별도 설정 없이 동작합니다.
+- **Netlify (대안)**: 저장소를 연결하면 `netlify.toml` 설정대로 `npm run build` → `dist` 배포.
 
 ## 구조
 
